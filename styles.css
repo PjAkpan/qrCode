@@ -1,0 +1,36 @@
+.container {
+height: 700vh;
+width: 400vw;
+border: 15px 15px;
+margin: 20px;
+padding: 50px;
+justify-items: center;
+background-color: white;
+border-radius: 16px;
+margin: 100px auto;
+padding: 10px;
+}
+
+body{
+    line-height: 1.5;
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Poppins' , sans-serif;
+    padding: 30;
+}
+
+
+.img-card {
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px auto;
+}
+ 
+
+/* 
+
+
+
+<div class="attribution">
+Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+Coded by <a href="#">Your Name Here</a>.
+</div> */
